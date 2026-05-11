@@ -1,0 +1,14 @@
+From: billing@netflix-account.com
+Subject: Your Netflix payment failed
+
+Dear Customer,
+
+Your recent payment could not be processed.
+You may repeat again or wait for a moment....!!
+
+Update your billing info:
+http://netflix.update-billing.xyz/secure
+
+Reply to: support@netflix-account.com
+
+Netflix Team

@@ -1,0 +1,12 @@
+From: alerts@trust-security.com
+Subject: Unusual activity detected
+
+Dear Valued Customer,
+
+Unusual login detected from unrecognized device.
+You're account may be burned.
+
+Verify your account:
+http://trust.secure-verify.xyz/login
+
+Trust Bank

@@ -1,0 +1,12 @@
+From: tracking@issued-delivery.net
+Subject: Package delivery failed
+
+Dear Customer,
+
+Your package could not be delivered.
+You may contact the support for more clarifications....!!!
+
+Track your shipment:
+http://issued.tracking-info.xyz/track?id=837492
+
+issued-derivery Support
